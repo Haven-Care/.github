@@ -1,16 +1,10 @@
-# Haven Care
+# HAVEN CARE
 
-**BSCS-3A capstone team — building software for a real maternity clinic.**
+> Making maternal healthcare easier to reach, one booking at a time.
 
-We're a six-person student development team. Our client is **Bernardo's Maternity and Lying-in Clinic**, and we're replacing their paper-and-walk-in workflow with an online system: patients book check-ups from their phone, staff manage appointments and records from the clinic side.
+**Haven Care** is a six-person BSCS-3A capstone team building software for real clinics. Our current client is **Bernardo's Maternity and Lying-in Clinic**, where we're replacing a paper-and-walk-in workflow with a system patients can reach from their phone and staff can run from the front desk.
 
 ---
-
-## Projects
-
-| Repo | What it is | Status |
-|---|---|---|
-| [**Bernardo's Maternity and Lying-in Clinic**](https://github.com/Haven-Care/Haven-Care-Website) | Monorepo — React frontend + Express/Supabase API. Responsive down to mobile, so patients can book check-ups from a phone browser without installing anything. | In development |
 
 ## Stack
 
@@ -36,6 +30,35 @@ We're a six-person student development team. Our client is **Bernardo's Maternit
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
+## About Haven Care
+
+*Haven* is what a clinic is meant to be — a safe place people can get to when they need it. Our job is to remove the friction that stands between a patient and that place.
+
+We work with a real client on a real constraint set: limited staff, limited budget, patients on low-end phones and unreliable data. That shapes every decision we make — we build for what the clinic actually has, not for what a demo would look best on.
+
+---
+
+## Areas of Focus
+
+- **Appointment & Scheduling Systems** — Booking flows, availability management, and conflict handling for clinic operations.
+- **Mobile-First Web Interfaces** — Responsive layouts that work on a phone browser, no app install required.
+- **Backend & Database Architecture** — REST APIs, relational schema design, and authentication over Supabase.
+- **Requirements Engineering** — Client interviews, process mapping, feasibility analysis, and documentation.
+- **Quality Assurance** — System testing, requirement verification, bug reporting, and release sign-off.
+- **Accessible, Low-Bandwidth Design** — Interfaces that stay usable on older devices and weak connections.
+
+---
+
+## Projects
+
+| Repo | What it is | Status |
+|---|---|---|
+| [**Bernardo's Maternity and Lying-in Clinic**](https://github.com/Haven-Care/Haven-Care-Website) | Monorepo — React frontend + Express/Supabase API. Responsive down to mobile, so patients can book check-ups from a phone browser without installing anything. | In development |
+
+---
+
 ## Team
 
 | Member | GitHub | Role |
@@ -46,8 +69,6 @@ We're a six-person student development team. Our client is **Bernardo's Maternit
 | Seraspe | [@Ren-Desuwa](https://github.com/Ren-Desuwa) | Backend |
 | Escabal | [@lexa0127](https://github.com/lexa0127) | Research & Requirements · QA |
 | Bernardo | [@edrenvic26](https://github.com/edrenvic26) | Research & Requirements · QA |
-
-Adviser: **Prof. Joemen G. Barrios**
 
 ---
 
